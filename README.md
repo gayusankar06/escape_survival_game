@@ -1,8 +1,8 @@
-#🦟 Dengue Escape Survival Game
+## 🦟 Dengue Escape Survival Game
 
 A **Java console survival game** where your goal is to survive **10 days** during a **dengue outbreak**. Manage your **health**, gather **food**, and collect **repellent** to avoid infection. Every decision counts — make the wrong one, and your health will drop to zero.
 
----
+
 
 ## 📜 Description
 This game is a turn-based survival simulation designed in Java.  
@@ -16,7 +16,7 @@ You’ll face various daily choices:
 
 Survive **all 10 days** without your health reaching **0** to win!
 
----
+
 
 ## 🎮 Gameplay Features
 - **Stay Indoors** → -5 health  
@@ -28,14 +28,14 @@ Survive **all 10 days** without your health reaching **0** to win!
 - Win by surviving **10 days**  
 - Lose if **health reaches 0**  
 
----
+
 
 ## 🛠 Tech Stack
 - **Language:** Java (JDK 8+)
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code
 - **Tools:** Git & GitHub
 
----
+
 
 ## 📂 File Structure
 DengueEscapeSurvivalGame/
@@ -48,7 +48,6 @@ DengueEscapeSurvivalGame/
 
 
 
----
 
 ## ▶ How to Run
 1. **Clone the Repository**
